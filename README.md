@@ -15,6 +15,7 @@
 * HTML/CSS
 * PostgreSQL
 * SQLServer
+* DHMTLX Library
 
 ### Languages and frameworks I am learning:
 * Angular
