@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Luna 🌜
 
-### I am excited to enhance my technology skills with this new journey in the **GitHub Community**.
-### So far, I have used GitLab to save my personal projects or collaborate on projects of friends and colleagues at University.
+#### I am excited to enhance my technology skills with this new journey in the **GitHub Community**.
+#### So far, I have used GitLab to save my personal projects or collaborate on projects of friends and colleagues at University.
 
-### I'm currently learning **Angular** framework, together with Typescript and RxJs. 
-### So, I hope to contribute on some Angular projects to learn it in depth.
+#### I am currently learning **Angular** framework, together with Typescript and RxJs. 
+#### So, I hope to contribute on some Angular projects to learn it in depth.
 
 ---
 
