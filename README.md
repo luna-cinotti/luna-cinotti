@@ -6,6 +6,8 @@
 ### I'm currently learning **Angular** framework, together with Typescript and RxJs. 
 ### So, I hope to contribute on some Angular projects to learn it in depth.
 
+---
+
 ### Languages and technologies I am currently working with:
 * JavaScript
 * ExtJS Sencha
